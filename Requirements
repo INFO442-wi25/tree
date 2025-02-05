@@ -1,0 +1,19 @@
+1. Web Application
+
+2. Physical Art Piece
+The physical component will be an art piece made of crumpled paper squares in different colors, each representing a type of hospital waste. The objective is to visually communicate the scale and urgency of hospital waste.
+P0 (Must-Have - Critical for MVP)
+Completion & Presentation
+Ensure the art piece is fully assembled, visually complete, and not confusing to viewers.
+Include a written description explaining its significance and how it relates to the web app.
+Message Reinforcement
+The art should effectively highlight the scale of hospital waste.
+Ensure the color-coding system clearly differentiates types of waste.
+P1 (Should-Have - Enhances Impact)
+Stop-Motion Animation
+Create a stop-motion video showing the trash pile growing over time.
+Ensure smooth animation and clear storytelling.
+P2 (Nice-to-Have - Stretch Goals)
+Interactive Exhibit Integration
+Accompany the physical piece with an interactive or QR code linking to the web app.
+Test that the QR code works and directs users to the correct path
