@@ -1,5 +1,5 @@
 # tree
-Sierra, Pranatha, Beliz, Emma
+Beliz Ozhan, Sierra Foster, Emma Esteban, Pranathi Kesapragada, Maansi
 
 # Hospital Waste Project
 
