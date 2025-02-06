@@ -1,4 +1,36 @@
+Requirements
+Project: Hospital Waste Management Web App & Physical Art Piece
+
 1. Web Application
+The web app will serve as an interactive onboarding and educational platform focused on hospital waste management. Its objective is to educate hospital employees on proper waste disposal and other tools to minimize the impact on the environment. As an onboarding tool, employees should receive a certificate, showing their knowledge in proper waste management.
+P0 (Must-Have - Critical for MVP)
+Navigation & Structure
+Implement a clear, intuitive navigation bar to access different pages.
+All pages load correctly and are accessible from the homepage.
+Pages are logical and seamlessly flow between each other.
+Educational Content
+Include well-researched case studies and statistics in each module.
+Ensure content accuracy using sources that are accessible in modules.
+Stop-motion video with physical art is available to view through the “View Our Physical Art” page.
+Quiz and Certificate Functionality
+In each module, users can click the “Take Quiz Now” button and be redirected to that specific quiz.
+Users can click through each quiz with a confirmation message at the end.
+Certificate is always available to view in the Employee Profile section.
+Accessibility Compliance (WCAG 2.1)
+Verify high-contrast color usage and proper keyboard navigation..
+Conduct accessibility testing using Figma and browser accessibility tools.
+P1 (Should-Have - Enhanced Functionality)
+Responsive Design
+Ensure proper rendering and flows on the desktop Figma prototype.
+Validate through real device testing.
+Content Available after Completion 
+Users can revisit module content or view quiz content regardless of completion status.
+P2 (Nice-to-Have - Stretch Goals)
+Utilize Certificate
+Allow users to share their completion certificate on LinkedIn or download as a PDF.
+Interactive Features
+Design features like sliders that show the impact of waste from hospitals.
+Implement these within Modules and/or the Our Mission page.
 
 2. Physical Art Piece
 The physical component will be an art piece made of crumpled paper squares in different colors, each representing a type of hospital waste. The objective is to visually communicate the scale and urgency of hospital waste.
